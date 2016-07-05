@@ -1,5 +1,5 @@
 FROM rawmind/alpine-jvm8:1.8.92-4
-MAINTAINER Raul Sanchez <rawmind@gmail.com>
+MAINTAINER BBVA Innovation Technologies <innotech@bbva.com>
 
 #Set environment
 ENV SERVICE_NAME=vamp \
